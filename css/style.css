@@ -1,4 +1,18 @@
 body{
+
     text-align: center;
-    color: yellow;
+    color: #333;
+}
+
+#div_master{
+
+    width: 71%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #000;
+    margin:  0 auto;
+}
+#container{
+    font-size: 20px;
+
 }
