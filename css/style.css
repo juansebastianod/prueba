@@ -1,9 +1,15 @@
 body{
-
+    
     text-align: center;
     color: #333;
 }
+a{text-decoration: none;}
 
+
+li{list-style: none;
+display: inline;
+margin-right: 10px;
+}
 #div_master{
 
     width: 71%;
